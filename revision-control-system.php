@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Revision Control System
- * Plugin URI: https://www.wppoland.com
+ * Plugin URI: https://www.wppoland.com/en/revision-control-system
  * Description: This plugin introduces revisions for all post types and keeps the last 400 revisions.
  * Version: 1.0.4
  * Requires at least: 5.8
