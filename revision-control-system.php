@@ -10,7 +10,7 @@
  * Author: WPPoland
  * Author URI: https://www.wppoland.com
  * Licence: GPLv2 or later
- *
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: wppoland
  * Domain Path: languages
  *
